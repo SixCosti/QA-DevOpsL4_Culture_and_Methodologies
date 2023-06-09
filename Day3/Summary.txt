@@ -5,7 +5,7 @@ https://www.markdownguide.org/cheat-sheet
 Learned to fork Git repos from other users, and make pull requests.
 ->fork it from the website into your repo, -> clone it from yours, add, commit and push then you can create a pull request from the user's website.
 
-Let's say I have my own place where you can write down your ideas and make programs. 
+Let's say I have my own place where I can write down my ideas and make programs. 
 One day, you see a really cool code in someone else's repo, but I notice there's a mistake in it. 
 I want to fix it, but you don't want to mess up their work functionality. So what can I do?
 First, I make a copy(clone) of their program and bring it to my local directory.
