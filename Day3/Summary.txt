@@ -1,0 +1,8 @@
+github.md (Mark Down file type) cheat sheet:
+
+https://www.markdownguide.org/cheat-sheet
+
+Learned to fork Git repos from other users, and make pull requests.
+->fork it from the website into yours, clone it from yours, add, commit push then you can create a pull request from user's website.
+
+Learned about different file types.

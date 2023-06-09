@@ -1,0 +1,41 @@
+Day 2 of Activity 1.2 | DevOps Culture and Methodologies: Discover and Practice
+
+The focus of today's lecture was version control/source control using git and GitHub.
+I've learned how to use git, both using the UI given by VSCode and the command line.
+Exercises that I've successfully completed:
+
+->Exercise 1:
+In Lab-on-Demand, create a new folder called Documents/gitlearn1, open it in VSCode, Initialise the folder as a git repo. (git init <path>)
+
+Go to the Source control Button and click the little button at the top.(UI)
+Open a terminal panel in VSCode (View > Terminal) and set up your user details with:
+>>>git config --global user.name "Your Name"
+>>>git config --global user.email "work@email"
+In VSCode create two .txt files, edit their content and save them.
+
+Either:
+
+Use git add <filename>, git commit -m "msg".
+Use the Source Control Button to stage and commit the changes.(UI)
+
+->Exercise 2:
+Working with remote code repositories.
+Create an account in GitHub (or use an existing one).
+Create a repository in GitHub. (make the name relevant to the course, add a README)
+Create a PAT for your account.(Personal Access Token, ticked repo access)
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token (Instructions)
+Clone your repository to your LoD machine in Git Bash.
+>>>git clone <https url>
+Open the folder in VSCode.
+Create a new file and add some contents.
+Stage (add), and commit the changes to the local repo.
+Push the changes back to GitHub, use the Token to authentication.
+
+Also learned how to handle merge conflicts ( found out how to fix problems that can happen when we work on the same file with other people).
+Learned the difference between rebase and merge and the difference between revert and reset.
+
+Did online exercises on: https://learngitbranching.js.org/
+
+Learned git branching levels, Rebase, Ramping up, Cherry Pick, Git Remotes.
+
+Resolution, git can be flexible if all those different techniques are used appropriately.

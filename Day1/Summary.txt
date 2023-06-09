@@ -1,0 +1,10 @@
+Day 1 of Activity 1.2 | DevOps Culture and Methodologies: Discover and Practice.
+I've had in the class a better overview of what DevOps means and that the cultural approach to software development is about working together and sharing responsibilities. 
+It breaks down the barriers between different teams and focuses on making high-quality software. 
+DevOps principles help developers and operations teams work better together. 
+Automation is a big part of this approach, making things faster and more consistent. 
+Continuous integration is like putting puzzle pieces together, and it helps us catch mistakes early. 
+Continuous delivery means we can release new features easily after getting approval. 
+Continuous deployment takes it a step further by releasing features automatically without needing humans to do it. It's like magic! 
+This approach helps us collaborate, make better software, and work more efficiently. 
+There were 2 research exercises where I had to work as part of a team, you will find attached the outcome of that.
