@@ -6,17 +6,17 @@ Learned to fork Git repos from other users, and make pull requests.
 ->fork it from the website into your repo, -> clone it from yours, add, commit and push then you can create a pull request from the user's website.
 
 Let's say I have my own place where I can write down my ideas and make programs. 
-One day, you see a really cool code in someone else's repo, but I notice there's a mistake in it. 
-I want to fix it, but you don't want to mess up their work functionality. So what can I do?
+One day, I see a really cool code in someone else's repo, but I notice there's a mistake in it. 
+I want to fix it, but I don't want to mess up their work functionality. So what can I do?
 First, I make a copy(clone) of their program and bring it to my local directory.
 In my directory, I create a new page and start fixing the mistake.
 After I'm done fixing it, I would show the fixed code to the owner of the original work.
 I will tell the owner about the mistake and show him/her how I've fixed it.(creating a pull request, adding a note/commentary)
-If the owner likes my idea, they can accept the pull request and put it back in their own program.
+If the owners likes my idea, they can accept the pull request and put it back in their own program.
 That way, my work becomes a part of their program, and I can feel proud that I've helped make their program better.
-Sometimes, I can also use someone else's drawing as inspiration for my own ideas. 
-If the person who made the program says others can use it, you can take their program make changes to it, and create something new. (ex. MIT license)
-You can even show it to others and let them know about the changes you made.
+Sometimes, I can also use someone else's programming as inspiration for my own ideas. 
+If the person who made the program says others can use it, I can take their program make changes to it, and create something new. (ex. MIT license)
+I can even show it to others and let them know about the changes I've made.
 
 This is like a special way for people to work together on their programs and ideas. They can see what others have done, make improvements, and share their work with each other. 
 It's like a collaborative tool that helps everyone create better ideas together.
